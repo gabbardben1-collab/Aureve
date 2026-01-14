@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Checkout | AUREVÉ</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>AUREVÉ</h1>
+</header>
+
+<section class="product">
+  <h2>Designer Cologne</h2>
+  <p>$95.00</p>
+
+  <!-- STRIPE BUTTON -->
+  <a href="https://buy.stripe.com/REPLACE_THIS" class="btn">Pay with Card</a>
+
+  <br><br>
+
+  <!-- PAYPAL BUTTON -->
+  <a href="https://www.paypal.com/paypalme/REPLACE_THIS" class="btn">Pay with PayPal</a>
+</section>
+
+</body>
+</html>
