@@ -1,1 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>AUREVÉ | Luxury Essentials</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>AUREVÉ</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="shop.html">Shop</a>
+  </nav>
+</header>
+
+<section class="hero">
+  <h2>Luxury Essentials. Authenticated. New.</h2>
+  <p>Premium colognes and apparel sourced from RichSupply.co</p>
+  <a href="shop.html" class="btn">Shop Collection</a>
+</section>
+
+<footer>
+  <p>© 2026 AUREVÉ</p>
+</footer>
+
+</body>
+</html>
 
