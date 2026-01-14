@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Shop | AUREVÉ</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>AUREVÉ</h1>
+</header>
+
+<section class="products">
+
+  <div class="product">
+    <h3>Designer Cologne</h3>
+    <p>$95.00</p>
+    <a href="product.html" class="btn">Buy Now</a>
+  </div>
+
+  <div class="product">
+    <h3>Luxury Streetwear Hoodie</h3>
+    <p>$120.00</p>
+    <a href="product.html" class="btn">Buy Now</a>
+  </div>
+
+</section>
+
+</body>
+</html>
